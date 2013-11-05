@@ -1,0 +1,17 @@
+[
+    {
+        "name": "event 1 name",
+        "description": "event 1 description",
+        "details": [
+            {"title":"vai la", "text": "vai ser legal"}
+        ]
+    },
+
+    {
+        "name": "event 2 name",
+        "description": "event 2 description",
+        "details": [
+            {"title":"vai la", "text": "vai ser legal"}
+        ]
+    }
+]
